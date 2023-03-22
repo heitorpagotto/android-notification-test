@@ -1,2 +1,2 @@
-# android-notification-test
-Android Notification and Snackbar test
+# Android Notification
+Projeto da faculdade com o intuito de aprendizado para notificação do Android
