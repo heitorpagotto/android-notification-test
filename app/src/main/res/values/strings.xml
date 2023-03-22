@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Activity Notifications</string>
+    <string name="app_developer_title">Desenvolvedor:</string>
+    <string name="app_developer">Heitor Pagotto</string>
+    <string name="login_name">Nome</string>
+    <string name="login_ra">RA</string>
+    <string name="required_field_text_error">Campo Obrigatório!</string>
+    <string name="login_button">Login</string>
+    <string name="home_action">Verificar Atividade</string>
+    <string name="home_no_activity">Não há atividades</string>
+    <string name="home_notification_title">Atividade!</string>
+    <string name="home_new_activity">Nova Atividade do Professor</string>
+    <string name="home_student_label">Usuário: </string>
+    <string name="home_student_ra">RA: </string>
+
+    <string name="notification_channel_name">Notification_Test</string>
+    <string name="notification_channel_description">Notification_Test_Description</string>
+</resources>
